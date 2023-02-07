@@ -49,7 +49,7 @@
             </div>
            
             <div class="mune">
-                <form method="post" action="reserve.php">
+                <form method="get" action="reserve.php">
                             <div class="allproduct">
                                 <p style="font-size: 3rem; padding-top:20px; ">訂單明細</p>
                     <hr/>
@@ -84,6 +84,9 @@
                                     $tprice=$t1+$t2+$t3+$t4+$t5;
                                     $_SESSION['tprice']=$tprice;
                                     
+
+
+
                                     echo "<table align='center' width='700' hight='500' >"
                                         ."<tr><td>產品名稱</td>"
                                         ."<td>數量</td>"

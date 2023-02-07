@@ -10,9 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-   <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
    
-    <script language="javascript" src="./js/reserve.js"></script>
     <title>日。嚐 甜</title>
     <link rel="stylesheet" href="./css/reserve.css" />
     
@@ -73,7 +71,7 @@
                                      <p>售價:680元</p>
                                      <br/>
                                      <br/>
-                                        <select class="pd" id="n1" name="n1" width="80" style="width: 80px; text-align: center;" >
+                                        <select class="n1" id="n1" name="n1" width="80" style="width: 80px; text-align: center;" >
                                          <option>0</option>
                                          <option>1</option>
                                          <option>2</option>
@@ -103,7 +101,7 @@
                                      <p>售價:700元</p>
                                      <br/>
                                      <br/>
-                                     <select class="pd" id="n2" name="n2" width="80" style="width: 80px; text-align: center;">
+                                     <select class="n2" id="n2" name="n2" width="80" style="width: 80px; text-align: center;">
                                          <option>0</option>
                                          <option>1</option>
                                          <option>2</option>
@@ -131,7 +129,7 @@
                                      <p>售價:750元</p>
                                      <br/>
                                      <br/>
-                                     <select class="pd" id="n3" name="n3" width="80" style="width: 80px; text-align: center;">
+                                     <select class="n3" id="n3" name="n3" width="80" style="width: 80px; text-align: center;">
                                          <option>0</option>
                                          <option>1</option>
                                          <option>2</option>
@@ -159,7 +157,7 @@
                                      <p>售價:570元</p>
                                      <br/>
                                      <br/>
-                                     <select class="pd" id="n4" name="n4" width="80" style="width: 80px; text-align: center;">
+                                     <select class="n4" id="n4" name="n4" width="80" style="width: 80px; text-align: center;">
                                          <option>0</option>
                                          <option>1</option>
                                          <option>2</option>
@@ -188,7 +186,7 @@
                                      <p>售價:790元</p>
                                      <br/>
                                      <br/>
-                                     <select class="pd" id="n5" name="n5" width="80" style="width: 80px; text-align: center;">
+                                     <select class="n5" id="n5" name="n5" width="80" style="width: 80px; text-align: center;">
                                          <option>0</option>
                                          <option>1</option>
                                          <option>2</option>
