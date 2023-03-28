@@ -109,7 +109,7 @@
             $n5=$_SESSION['n5'];
             $tproduct=$_SESSION['tproduct']; 
             $tprice=$_SESSION['tprice'];
-        $conn=@new mysqli('localhost','tododemo','ava890811');
+        $conn=@new mysqli('localhost','tododemo','');
         if($conn->connect_error){
             die("錯誤訊息： $conn->connect_error <br>");          
         }else{
