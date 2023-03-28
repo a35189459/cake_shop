@@ -24,7 +24,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 </head>
 <body>
     <?php
-        $conn=new mysqli('localhost','tododemo','ava890811');
+        $conn=new mysqli('localhost','tododemo','');
         if($conn ->connect_error){
             die("錯誤訊息: $conn->connect_error <br>");
         }else{
